@@ -1,0 +1,2 @@
+class Gaslisht < Hex
+end

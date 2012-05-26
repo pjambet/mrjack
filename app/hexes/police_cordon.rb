@@ -1,0 +1,2 @@
+class PoliceCordon < Hex
+end

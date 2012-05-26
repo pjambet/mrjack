@@ -1,0 +1,2 @@
+class Goodley < Characted
+end

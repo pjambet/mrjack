@@ -1,0 +1,2 @@
+class Gull < Character
+end

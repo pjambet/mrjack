@@ -1,0 +1,2 @@
+class Watson < Character
+end

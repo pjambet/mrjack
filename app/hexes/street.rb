@@ -1,0 +1,2 @@
+class Street < Hex
+end

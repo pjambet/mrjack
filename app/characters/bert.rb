@@ -1,0 +1,2 @@
+class Bert < Character
+end

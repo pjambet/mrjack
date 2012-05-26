@@ -1,0 +1,2 @@
+class Holmes < Character
+end

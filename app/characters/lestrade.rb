@@ -1,0 +1,2 @@
+class Lestrade < Character
+end

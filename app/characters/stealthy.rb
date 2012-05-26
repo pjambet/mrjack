@@ -1,0 +1,2 @@
+class Stealthy < Character
+end

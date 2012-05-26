@@ -1,0 +1,2 @@
+class Manhole < Hex
+end
