@@ -1,0 +1,2 @@
+describe Gull do
+end

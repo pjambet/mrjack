@@ -1,0 +1,2 @@
+describe Goodley do
+end

@@ -1,0 +1,2 @@
+describe Homes do
+end

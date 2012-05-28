@@ -1,0 +1,2 @@
+describe Stealthy do
+end

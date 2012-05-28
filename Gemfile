@@ -35,10 +35,13 @@ group :development, :test do
   gem 'annotate', '2.4.1.beta1'
   gem 'railroady'
   gem 'ruby-prof'
+  gem 'rspec-rails'
 end
 
 group :test do
-  gem 'shoulda', '2.11.3'
+  gem 'shoulda'
+  # gem 'minitests'
+  # gem ''
 end
 
 group :production do
