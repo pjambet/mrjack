@@ -1,4 +1,4 @@
-class Jack < Character
+class Jack < Player
 
   def won?
     escaped?
@@ -8,4 +8,5 @@ class Jack < Character
     #TODO
     false
   end
+
 end

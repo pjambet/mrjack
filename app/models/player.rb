@@ -5,4 +5,15 @@ class Player < ActiveRecord::Base
   def won?
   end
 
+  def win!
+    game.end_game!
+  end
+
+  def play
+    pick_a_card
+  end
+
+  def pick_a_card card
+
+  end
 end

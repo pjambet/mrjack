@@ -1,6 +1,9 @@
 module Ability
-  def ability_name
-    #TODO
+
+  attr_accessor :ability_name
+
+  def mandatory_ability?
+    false
   end
 
   def ability_type
@@ -8,6 +11,5 @@ module Ability
   end
 
   def use_ability
-    #TODO
   end
 end
